@@ -16,3 +16,7 @@ As part of a PwC job simulation (hosted by Forage), I worked on a Call Center Tr
 
 I created an interactive Excel dashboard with filters, charts, and summaries to track monthly performance and agent productivity. This involved cleaning data, using Excel functions, and organizing information clearly. The goal was to find ways to improve call center efficiency and enhance customer experience.
 
+
+
+https://github.com/user-attachments/assets/f3b2e987-d6bd-4294-9c29-b39fa7c93132
+
