@@ -18,6 +18,8 @@ I created an interactive Excel dashboard with filters, charts, and summaries to 
 
 https://github.com/user-attachments/assets/f3b2e987-d6bd-4294-9c29-b39fa7c93132
 
+
+
 ## Problem Statement
 
 This project provides clear insights into customer service operations to help improve call centre performance. Here's what we track:
@@ -28,6 +30,8 @@ This project provides clear insights into customer service operations to help im
 - **Customer Problems & Solutions** – Lists common issues customers face and shows how many were resolved, helping measure how well agents handle problems.
 - **Core Call Centre Metrics** – Key numbers like total calls, answered/missed calls, and resolved/unresolved issues to track overall efficiency.
 - **Service Quality & Efficiency** – Measures like average call time, speed of answering, customer ratings (if available), and how many customers each agent helps per month.
+
+
 
 ## Tools used
 
