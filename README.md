@@ -57,3 +57,33 @@ This project provides clear insights into customer service operations to help im
 
 Data was provided by the PwC Switzerland Virtual Internship Program through Forage. The data contains a sheet with 5000 rows and 10 columns. [Dataset.xlsx](https://github.com/user-attachments/files/20140275/Dataset.xlsx)
 
+## Data exploration and transformation
+
+The dataset is nearly in its final cleaned form, with only minor amendments made to ensure data efficiency. These transformations were performed using Microsoft Excel's Power Query Editor.
+
+
+
+This include;
+
+- **Dataset Comprehension**: Initial analysis to understand data structure and content.
+
+- **Column Format Validation**: Ensuring each column maintains its correct data type and format
+
+- **Time Period Categorization**Created new column classifying calls into:
+
+  - **Morning** (≤ 11:59 AM)
+  - **Afternoon** (≤ 3:59 PM)
+  - **Evening** (all other times)
+
+  Implemented via Power Query M code:
+
+  ```Power Query M formula language
+  each if[Time] <= #time(11,59,59) then "Morning"
+  else if [Time] <= #time(13,59,59) then "Afternoon"
+  else "Evening"
+  ```
+
+- **Date Feature Extraction**: Derived day of week and month from date columns
+
+- **Duration Standardization**: Added column converting average talk duration to seconds
+
