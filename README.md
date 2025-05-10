@@ -85,5 +85,12 @@ This include;
 
 - **Date Feature Extraction**: Derived day of week and month from date columns
 
+
+
 - **Duration Standardization**: Added column converting average talk duration to seconds
 
+
+
+## Data Analysis and Visuals
+
+Below is the dashboard I created
