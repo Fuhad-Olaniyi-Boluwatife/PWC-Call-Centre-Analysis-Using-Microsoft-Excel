@@ -51,4 +51,5 @@ This project provides clear insights into customer service operations to help im
 
 ## Data source
 
-Data was provided by the PwC Switzerland Virtual Internship Program through Forage. The data contains a sheet with 5000 rows and 10 columns. 
+Data was provided by the PwC Switzerland Virtual Internship Program through Forage. The data contains a sheet with 5000 rows and 10 columns. [Dataset.xlsx](https://github.com/user-attachments/files/20140275/Dataset.xlsx)
+
