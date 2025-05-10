@@ -62,6 +62,8 @@ Data was provided by the PwC Switzerland Virtual Internship Program through Fora
 The dataset is nearly in its final cleaned form, with only minor amendments made to ensure data efficiency. These transformations were performed using Microsoft Excel's Power Query Editor.
 
 
+![power query](https://github.com/user-attachments/assets/7191e0c0-1c05-4e9d-94e2-e325a9aa5eaf)
+
 
 This include;
 
