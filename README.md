@@ -102,16 +102,15 @@ Below is the dashboard I created
 
 [CLICK HERE TO DOWNLOAD](Dashboard.xlsm)
 
-### From the dashboard, it is observer that
-Call Volume Summary (January - March)
-Total Calls Recorded: 5,000
+### **From the dashboard, it is observer that**
+1. ### **Call Volume Summary (January - March)**
 
-Answered Calls: 4,054 (81.08% answer rate)
+   - **Total Calls Recorded:** 5,000
 
-Unanswered Calls: 946 (18.92%)
+   - **Answered Calls:** 4,054 (81.08% answer rate)
 
-Resolution Performance:
+   - **Unanswered Calls:** 946 (18.92%)
 
-Resolved Calls: 3,646 (90.0% of answered calls)
-
-Unresolved Calls: 408 (10.0% of answered calls)
+   - **Resolution Performance:**
+     - Resolved Calls: 3,646 (90.0% of answered calls)
+     - Unresolved Calls: 408 (10.0% of answered calls)
