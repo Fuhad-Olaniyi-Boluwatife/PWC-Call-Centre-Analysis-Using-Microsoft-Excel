@@ -114,7 +114,15 @@ Below is the dashboard I created
    - **Resolution Performance:**
      - Resolved Calls: 3,646 (90.0% of answered calls)
      - Unresolved Calls: 408 (10.0% of answered calls)
-![kpi's](https://github.com/user-attachments/assets/c33e3a4e-e571-4566-a13c-4694ee8d4f77)
+  ![kpi's](https://github.com/user-attachments/assets/c33e3a4e-e571-4566-a13c-4694ee8d4f77)
 
+2. **Agent Call Performance Analysis (3-Month Period)**
 
-       
+   1. **Total Calls per Agent**
+      - View each agent's total call volume over the 3-month period
+      - Identify the top-performing agent by overall call volume
+   2. **Monthly Breakdown**
+      - Compare monthly performance (e.g., see which agent handled the most calls in January)
+      - Track consistency or fluctuations in agent productivity month-to-month
+
+   
