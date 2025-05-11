@@ -173,7 +173,18 @@ Below is the dashboard I created
    - **Average customer Served per Month:** 171.3
    - **Average answering speed:** 69.49 (units not specified, likely seconds)
    - **Average call duration:** 223.7 (units not specified, likely seconds)
+
+     ![image 6](https://github.com/user-attachments/assets/040b265b-1d8d-4495-baef-2dd92a7d753e)
+
+ 5. **Agent Performance Filtering**
+ The agent performance metrics can be:
+ Filtered monthly to analyze individual month performance
+ Reset to the full 3-month view to assess overall trends
+ 
+ (Data represents January-March period)
+
+
   
-     ![image 6](https://github.com/user-attachments/assets/7bcd5ba8-a0dd-4ab4-95ee-ff82cee282a5)
+    
 
 
