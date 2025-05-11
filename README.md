@@ -121,8 +121,16 @@ Below is the dashboard I created
    1. **Total Calls per Agent**
       - View each agent's total call volume over the 3-month period
       - Identify the top-performing agent by overall call volume
-   2. **Monthly Breakdown**
+
+   
+        ![call per agent](https://github.com/user-attachments/assets/1fffadb9-ea4f-4819-81c0-52aa06e62180)
+
+
+   1. **Monthly Breakdown**
       - Compare monthly performance (e.g., see which agent handled the most calls in January)
       - Track consistency or fluctuations in agent productivity month-to-month
 
-   
+        
+![Janu](https://github.com/user-attachments/assets/861d036f-5c07-4b62-bef1-4e5bd8c15db4)
+![Capturep](https://github.com/user-attachments/assets/d7b3afca-2701-411f-9243-acf1185d5457)
+
