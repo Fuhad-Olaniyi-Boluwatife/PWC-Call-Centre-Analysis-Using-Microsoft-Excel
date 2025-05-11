@@ -10,7 +10,7 @@ As part of a PwC Switzerland Virtual Internship Program through Forage, I worked
 
 I created an interactive Excel dashboard with filters, charts, and summaries to track monthly performance and agent productivity. This involved cleaning data, using Excel functions, and organising information clearly. The goal was to find ways to improve call centre efficiency and enhance customer experience.
 
-https://github.com/user-attachments/assets/0977fabd-b65f-4c8e-b5d6-7d27859b60ea
+https://github.com/user-attachments/assets/10094cda-39a4-4b71-bbe8-ddd3752dd442
 
 
 
@@ -88,7 +88,7 @@ This include;
 ## Data Analysis and Visuals
 Below is the dashboard I created
 
-![Dashboard](https://github.com/user-attachments/assets/d102f49c-aace-4217-b2d9-571a3bc60793)
+![Dashboard](https://github.com/user-attachments/assets/52024984-0c83-411f-9aab-681596a4db8c)
 
 [CLICK HERE TO DOWNLOAD](Dashboard.xlsm)
 
