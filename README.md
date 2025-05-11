@@ -30,11 +30,11 @@ https://github.com/user-attachments/assets/73b9874e-5de4-4a18-8558-c9097a67acb5
 ## Problem Statement
 This project provides clear insights into customer service operations to help improve call centre performance. Here's what we track:
 - **Overall Performance Snapshot** – A quick summary of call volume, agent activity, and customer behaviour to see how the call centre is doing as a whole.
-- **Individual Agent Performance** – Tracks each agent’s stats, including call resolution rates and answered vs. missed calls, with filters to check performance by time of day (morning/afternoon/evening).
-- **Call Trends Over Time** – Identifies patterns like busiest days of the week or month to help with staffing and resource planning.
+- **Individual Agent Performance** – Tracks each agent’s stats, including call resolution rates, call answered, call missed calls, with filters to check their monthly performance.
+- **Call Trends Over Time** – Identifies patterns like busiest days of the week to help with staffing and resource planning.
 - **Customer Problems & Solutions** – Lists common issues customers face and shows how many were resolved, helping measure how well agents handle problems.
 - **Core Call Centre Metrics** – Key numbers like total calls, answered/missed calls, and resolved/unresolved issues to track overall efficiency.
-- **Service Quality & Efficiency** – Measures like average call time, speed of answering, customer ratings (if available), and how many customers each agent helps per month.
+- **Service Quality & Efficiency** – Measures like average call time, speed of answering, customer ratings, and how many customers each agent helps per month.
 
 
 
@@ -75,7 +75,7 @@ The dataset is nearly in its final cleaned form, with only minor amendments made
 This include;
 
 - **Dataset Comprehension**: Initial analysis to understand data structure and content.
-- **Column Format Validation**: Ensuring each column maintains its correct data type and format
+- **Column Format Validation**: Ensuring each column maintains its correct data type and format.
 - **Time Period Categorization**: Created new column classifying calls into:
   - **Morning** (≤ 11:59 AM)
   - **Afternoon** (≤ 3:59 PM)
@@ -90,8 +90,8 @@ This include;
   else "Evening"
   ```
   
-- **Date Feature Extraction**: Derived day of week and month from date columns
-- **Duration Standardization**: Added column converting average talk duration to seconds
+- **Date Feature Extraction**: Derived day of week and month from date columns.
+- **Duration Standardization**: Added column converting average talk duration to seconds and many more.
 
 ![cappture 2](https://github.com/user-attachments/assets/7b980031-83fb-4a31-a453-ee8c1d34244e)
 
