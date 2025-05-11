@@ -114,3 +114,7 @@ Below is the dashboard I created
    - **Resolution Performance:**
      - Resolved Calls: 3,646 (90.0% of answered calls)
      - Unresolved Calls: 408 (10.0% of answered calls)
+![kpi's](https://github.com/user-attachments/assets/c33e3a4e-e571-4566-a13c-4694ee8d4f77)
+
+
+       
