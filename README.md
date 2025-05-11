@@ -178,10 +178,10 @@ Below is the dashboard I created
 
     4. **Overall Average Performance Metrics**
     These metrics appear to be for the entire call centre or an average across agents:
-    - **Average customer performance rating:** 3.47 (likely out of 5)
+    - **Average customer performance rating:** 3.47 (out of 5.0)
     - **Average customer Served per Month:** 171.3
-    - **Average answering speed:** 69.49 (units not specified, likely seconds)
-    - **Average call duration:** 223.7 (units not specified, likely seconds)
+    - **Average answering speed:** 69.49 sec
+    - **Average call duration:** 223.7 sec
     
      ![image 6](https://github.com/user-attachments/assets/23e70a83-82ff-4af6-9b51-edc64096786d)
 
@@ -194,7 +194,7 @@ The agent performance metrics can be:
   ![image7](https://github.com/user-attachments/assets/e24c90c8-de70-4d9d-93bb-240be67a5b25)
 
 ## Conclution 
-This call center analysis project has provided valuable insights into customer service operations over a three-month period. The data reveals that while the call center maintains a strong 81% answer rate and 90% resolution rate, opportunities exist to enhance performance further. Key findings show variations in agent productivity, with top performers like Jim handling significantly higher call volumes, and time-based patterns indicating higher unresolved rates during evenings.
+This call center analysis project has provided valuable insights into customer service operations over a three-month period. The data reveals that, while the call center maintains a strong 81% answer rate and a 90% resolution rate, opportunities exist to enhance performance further. Key findings show variations in agent productivity, with top performers like Jim handling significantly higher call volumes. Additionally, time-based patterns indicate higher unresolved rates during the evenings, as more calls come in during that time for agents.
 
 ## Recommedation 
 To further improve call center performance, two key initiatives should be implemented. First, a detailed survey should be conducted to analyze the root causes of unanswered calls, examining factors responsible. This investigation will enable targeted solutions to significantly reduce missed calls. Second, a comprehensive study of unresolved calls is needed to identify patterns in customer issues, agent knowledge gaps, and process breakdowns. The insights gained from this analysis will allow for focused training programs and workflow improvements to enhance problem resolution capabilities. Together, these measures will systematically address both call response rates and solution effectiveness, leading to measurable improvements in overall customer service quality.
