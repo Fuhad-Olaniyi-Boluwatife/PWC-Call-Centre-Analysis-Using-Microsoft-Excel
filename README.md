@@ -7,6 +7,7 @@
 - [Data source](#data-source)
 - [Data exploration and transformation](#data-exploration-and-transformation)
 - [Data Analysis and Visuals](#data-analysis-and-visuals)
+- [Conclusion](conclusion)
 
 
 ## Introduction
@@ -191,6 +192,12 @@ The agent performance metrics can be:
 - Reset to the full 3-month view to assess overall trend (Data represents January-March period)
 
   ![image7](https://github.com/user-attachments/assets/e24c90c8-de70-4d9d-93bb-240be67a5b25)
+
+## Conclution 
+This call center analysis project has provided valuable insights into customer service operations over a three-month period. The data reveals that while the call center maintains a strong 81% answer rate and 90% resolution rate, opportunities exist to enhance performance further. Key findings show variations in agent productivity, with top performers like Jim handling significantly higher call volumes, and time-based patterns indicating higher unresolved rates during evenings.
+
+## Recommedation 
+To further improve call center performance, two key initiatives should be implemented. First, a detailed survey should be conducted to analyze the root causes of unanswered calls, examining factors responsible. This investigation will enable targeted solutions to significantly reduce missed calls. Second, a comprehensive study of unresolved calls is needed to identify patterns in customer issues, agent knowledge gaps, and process breakdowns. The insights gained from this analysis will allow for focused training programs and workflow improvements to enhance problem resolution capabilities. Together, these measures will systematically address both call response rates and solution effectiveness, leading to measurable improvements in overall customer service quality.
 
 
 
