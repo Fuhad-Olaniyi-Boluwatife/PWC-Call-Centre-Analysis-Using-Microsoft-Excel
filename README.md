@@ -103,7 +103,7 @@ Below is the dashboard I created
 [CLICK HERE TO DOWNLOAD](Dashboard.xlsm)
 
 ### **From the dashboard, it is observer that**
-1. ### **Call Volume Summary (January - March)**
+1. ##### **Call Volume Summary (January - March)**
 
    - **Total Calls Recorded:** 5,000
 
@@ -112,25 +112,86 @@ Below is the dashboard I created
    - **Unanswered Calls:** 946 (18.92%)
 
    - **Resolution Performance:**
+     
      - Resolved Calls: 3,646 (90.0% of answered calls)
+     
      - Unresolved Calls: 408 (10.0% of answered calls)
-  ![kpi's](https://github.com/user-attachments/assets/c33e3a4e-e571-4566-a13c-4694ee8d4f77)
+       ![kpi's](https://github.com/user-attachments/assets/c33e3a4e-e571-4566-a13c-4694ee8d4f77)
+     
+       
 
-2. **Agent Call Performance Analysis (3-Month Period)**
+2. **Number of Calls Per Agent (3-Month Period)**
 
    1. **Total Calls per Agent**
+
       - View each agent's total call volume over the 3-month period
+
       - Identify the top-performing agent by overall call volume
 
-   
-        ![call per agent](https://github.com/user-attachments/assets/1fffadb9-ea4f-4819-81c0-52aa06e62180)
+        
 
+        (image)
 
-   1. **Monthly Breakdown**
+        
+
+   2. **Monthly Breakdown**
+
       - Compare monthly performance (e.g., see which agent handled the most calls in January)
+
       - Track consistency or fluctuations in agent productivity month-to-month
 
         
-![Janu](https://github.com/user-attachments/assets/861d036f-5c07-4b62-bef1-4e5bd8c15db4)
-![Capturep](https://github.com/user-attachments/assets/d7b3afca-2701-411f-9243-acf1185d5457)
+
+        (image)
+
+        
+
+   3. Agent performace
+
+3. **Agent Call Performance Analysis**: a selected agent can be pick from list of agent and see the agent performance over the cause of 3 months. for instance let take Martha's Performance Details.
+
+   1. **Martha call out come**
+
+      - Total Answer Calls by Martha: 514
+      - Call Resolution Rate: **89.69%** 
+      - **Detailed Breakdown of Martha's Answered Calls (from table):**
+        - Morning (icon looks like a cloud/sun): 166 Resolved, 15 Unresolved (Total: 181)
+        - Afternoon (icon looks like a sun): 101 Resolved, 14 Unresolved (Total: 115)
+        - Evening (icon looks like a sun with an arrow down): 194 Resolved, 24 Unresolved (Total: 218)
+        - **Totals from table:** 461 Resolved (166+101+194), 53 Unresolved (15+14+24). Total Answered = 461 + 53 = 514.
+        - **Calculated Resolution Rate for Martha (based on table):** (461 / 514) * 100 = **89.69%**
+      - **Unanswered Calls (attributed to Martha in her panel):**
+        - Morning (icon looks like a cloud/sun): 45
+        - Afternoon (icon looks like a sun): 28
+        - Evening (icon looks like a sun with an arrow down): 51
+        - **Total Unanswered Calls (for Martha, from her panel):** 124 (45+28+51)
+
+   2. ##### Martha Call Discussion with Customer (Breakdown of her answered calls by topic)
+
+      This section shows the topics of Martha's calls and how many were resolved vs. unresolved for each:
+
+      - **Technical:** 94 Resolved, 8 Unresolved
+      - **Streaming:** 87 Resolved, 18 Unresolved
+      - **Payment related:** 99 Resolved, 9 Unresolved
+      - **Contract related:** 98 Resolved, 9 Unresolved
+      - **Admin Support:** 83 Resolved, 9 Unresolved
+        - **Totals from this section:** 461 Resolved (94+87+99+98+83), 53 Unresolved (8+18+9+9+9). Total Answered = 461 + 53 = 514. These totals match the detailed breakdown in section A, sub-section iii.
+
+   3. ##### Martha Daily Call Trend
+
+      This line graph shows Martha's call volume for the duration of 3 month on a daily basis:
+
+      - **months Minimum calls (Fri):** 72
+      - **Maximum calls (Thu):** 112
+
+      *(Note: This can can still be filter on monthly basis for example the month of January for example)*
+
+4. **Overall Average Performance Metrics **
+
+   These metrics appear to be for the entire call centre or an average across agents:
+
+   - **Average customer performance rating:** 3.47 (likely out of 5)
+   - **Average customer Served per Month:** 171.3
+   - **Average answering speed:** 69.49 (units not specified, likely seconds)
+   - **Average call duration:** 223.7 (units not specified, likely seconds)
 
