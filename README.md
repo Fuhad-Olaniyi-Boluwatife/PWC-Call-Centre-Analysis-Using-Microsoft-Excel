@@ -1,4 +1,14 @@
 # PWC Call centre Customer Care
+
+### Table of content
+- [Introduction](#introduction)
+- [Problem Statement](#problem-statement)
+- [Tools used](#tools-used)
+- [Data source](#data-source)
+- [Data exploration and transformation](#data-exploration-and-transformation)
+- [Data Analysis and Visuals](#data-analysis-and-visuals)
+
+
 ## Introduction
 In today’s world, good customer service is crucial for any business. It shapes how people see a company, builds loyalty, and keeps customers happy. That’s why improving customer support isn’t just about internal operations—it affects everyone who interacts with the business.
 
