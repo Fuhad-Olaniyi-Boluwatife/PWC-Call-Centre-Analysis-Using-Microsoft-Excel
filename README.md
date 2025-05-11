@@ -10,7 +10,8 @@ As part of a PwC Switzerland Virtual Internship Program through Forage, I worked
 
 I created an interactive Excel dashboard with filters, charts, and summaries to track monthly performance and agent productivity. This involved cleaning data, using Excel functions, and organising information clearly. The goal was to find ways to improve call centre efficiency and enhance customer experience.
 
-https://github.com/user-attachments/assets/10094cda-39a4-4b71-bbe8-ddd3752dd442
+https://github.com/user-attachments/assets/73b9874e-5de4-4a18-8558-c9097a67acb5
+
 
 
 
@@ -83,13 +84,10 @@ This include;
 
 ![cappture 2](https://github.com/user-attachments/assets/7b980031-83fb-4a31-a453-ee8c1d34244e)
 
-
-
-
 ## Data Analysis and Visuals
 Below is the dashboard I created
 
-![Dashboard](https://github.com/user-attachments/assets/52024984-0c83-411f-9aab-681596a4db8c)
+![Dashboard](https://github.com/user-attachments/assets/1a09f245-4114-4a06-9c83-42516758abcb)
 
 [CLICK HERE TO DOWNLOAD](Dashboard.xlsm)
 
@@ -153,7 +151,7 @@ Below is the dashboard I created
       - **Admin Support:** 83 Resolved, 9 Unresolved
         - **Totals from this section:** 461 Resolved (94+87+99+98+83), 53 Unresolved (8+18+9+9+9)
       
-          ![image4](https://github.com/user-attachments/assets/06ba933d-9aee-4c75-b30e-600491c859d0)
+        ![image4](https://github.com/user-attachments/assets/b7061ea1-e863-452b-ac2a-7bf9bd58815a)
 
    3. **Martha Daily Call Trend**
       This line graph shows Martha's call volume for the duration of 3 month on a daily basis:
@@ -161,11 +159,11 @@ Below is the dashboard I created
       - **months Minimum calls (Fri):** 72
       - **Maximum calls (Thu):** 112
        
-           ![image5](https://github.com/user-attachments/assets/864b31d8-4ea1-48a7-96b3-9f7640660f67)
+          ![image5](https://github.com/user-attachments/assets/de19f995-5e07-4029-952c-bf19f68af429)
 
-      *(Note: This can can still be filter on monthly basis for example the month of January for example)*
+      *(Note: The data can still be filtered on a monthly basis - for example, when viewing January's results, we observe the agent received a minimum of 23 calls on Friday and reached a maximum of 39 calls on Monday. This monthly filtering capability enables detailed performance analysis while maintaining the option to assess the full three-month period.)*
       
-       ![image5b](https://github.com/user-attachments/assets/f3c77318-943c-44fe-a080-b9750c5ff38d)
+      ![image5b](https://github.com/user-attachments/assets/a4628b6d-e3d2-44f0-bb28-a71c330a28eb)
 
 **Overall Average Performance Metrics **
 These metrics appear to be for the entire call centre or an average across agents:
@@ -182,6 +180,9 @@ The agent performance metrics can be:
 
 - Filtered monthly to analyze individual month performance
 - Reset to the full 3-month view to assess overall trend (Data represents January-March period)
+
+  ![image7](https://github.com/user-attachments/assets/e24c90c8-de70-4d9d-93bb-240be67a5b25)
+
 
 
 
