@@ -40,10 +40,10 @@ This project provides clear insights into customer service operations to help im
   *The Efficiency Tool* – Single-command dashboard reset with full filter clearance and data refresh capabilities.
 - **Data Visualization**
   *The Decision-Making Lens*:
-- **Pie Charts**: Resolution rate effectiveness
-- **Bar Charts**: Individual agent call throughput
-- **Line Graphs**: Hourly/daily call volume patterns
-- **Stacked Columns**: Customer issue categorization
+     - **Pie Charts**: Resolution rate effectiveness
+     - **Bar Charts**: Individual agent call throughput
+     - **Line Graphs**: Hourly/daily call volume patterns
+     - **Stacked Columns**: Customer issue categorization
 
 
 
@@ -117,7 +117,7 @@ Below is the dashboard I created
         ![Janu](https://github.com/user-attachments/assets/9a429358-7e7e-43b4-8956-e64504eac759)
 
 
-3. **Agent Call Performance Analysis**: a selected agent can be pick from list of agent and see the agent performance over the cause of 3 months. for instance let take Martha's Performance Details.
+3. **Agent Call Performance Analysis**: a selected agent can be pick from list of agent and see the agent performance over the cause of 3 months or a specfic month. for instance let take Martha's Performance Details.
 
    1. **Martha call outcome**
       - Total Answer Calls by Martha: 514
@@ -165,19 +165,18 @@ Below is the dashboard I created
       
       ![image5b](https://github.com/user-attachments/assets/a4628b6d-e3d2-44f0-bb28-a71c330a28eb)
 
-**Overall Average Performance Metrics **
-These metrics appear to be for the entire call centre or an average across agents:
-- **Average customer performance rating:** 3.47 (likely out of 5)
-- **Average customer Served per Month:** 171.3
-- **Average answering speed:** 69.49 (units not specified, likely seconds)
-- **Average call duration:** 223.7 (units not specified, likely seconds)
+    4. **Overall Average Performance Metrics**
+    These metrics appear to be for the entire call centre or an average across agents:
+    - **Average customer performance rating:** 3.47 (likely out of 5)
+    - **Average customer Served per Month:** 171.3
+    - **Average answering speed:** 69.49 (units not specified, likely seconds)
+    - **Average call duration:** 223.7 (units not specified, likely seconds)
+    
+     ![image 6](https://github.com/user-attachments/assets/23e70a83-82ff-4af6-9b51-edc64096786d)
 
-  ![image 6](https://github.com/user-attachments/assets/040b265b-1d8d-4495-baef-2dd92a7d753e)
 
-**Agent Performance Filtering**
-
+4. **Agent Performance Filtering**
 The agent performance metrics can be:
-
 - Filtered monthly to analyze individual month performance
 - Reset to the full 3-month view to assess overall trend (Data represents January-March period)
 
