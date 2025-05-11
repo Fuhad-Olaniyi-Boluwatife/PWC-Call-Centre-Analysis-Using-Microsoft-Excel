@@ -69,8 +69,9 @@ This include;
   - **Afternoon** (≤ 3:59 PM)
   - **Evening** (all other times)
     
+  
   Implemented via Power Query M code:
-
+  
   ```Power Query M formula language
   each if[Time] <= #time(11,59,59) then "Morning"
   else if [Time] <= #time(13,59,59) then "Afternoon"
@@ -109,7 +110,7 @@ Below is the dashboard I created
       - Jim is the top-performing agent by overall call volume 
 
            ![call per agent](https://github.com/user-attachments/assets/733785f1-76da-4e54-9c79-3d1423acc1de)
-  
+
 
    2. **Monthly Breakdown**
       - Compare monthly performance (e.g., see which agent handled the most calls in January)
@@ -123,7 +124,7 @@ Below is the dashboard I created
    1. **Martha call outcome**
       - Total Answer Calls by Martha: 514
       - Call Resolution Rate: **89.69%**
-    
+   
         ![resolution rate](https://github.com/user-attachments/assets/06a47ecd-5a06-4ec2-ba72-c043ca324948)
 
       - **Detailed Breakdown of Martha's Answered Calls:**
@@ -131,7 +132,7 @@ Below is the dashboard I created
         - Afternoon : 101 Resolved, 14 Unresolved (Total: 115)
         - Evening : 194 Resolved, 24 Unresolved (Total: 218)
         - **Total Answered = 461 + 53 = 514**;  461 Resolved (166+101+194), 53 Unresolved (15+14+24)
-       
+      
             ![image 2](https://github.com/user-attachments/assets/65b36a99-fe65-4782-8796-7640853e1a94)
 
       - **Detailed Breakdown of Martha's Unanswered Calls:**
@@ -151,7 +152,7 @@ Below is the dashboard I created
       - **Contract related:** 98 Resolved, 9 Unresolved
       - **Admin Support:** 83 Resolved, 9 Unresolved
         - **Totals from this section:** 461 Resolved (94+87+99+98+83), 53 Unresolved (8+18+9+9+9)
-       
+      
           ![image4](https://github.com/user-attachments/assets/06ba933d-9aee-4c75-b30e-600491c859d0)
 
    3. **Martha Daily Call Trend**
@@ -159,32 +160,30 @@ Below is the dashboard I created
 
       - **months Minimum calls (Fri):** 72
       - **Maximum calls (Thu):** 112
-     
+       
            ![image5](https://github.com/user-attachments/assets/864b31d8-4ea1-48a7-96b3-9f7640660f67)
 
       *(Note: This can can still be filter on monthly basis for example the month of January for example)*
       
        ![image5b](https://github.com/user-attachments/assets/f3c77318-943c-44fe-a080-b9750c5ff38d)
 
+**Overall Average Performance Metrics **
+These metrics appear to be for the entire call centre or an average across agents:
+- **Average customer performance rating:** 3.47 (likely out of 5)
+- **Average customer Served per Month:** 171.3
+- **Average answering speed:** 69.49 (units not specified, likely seconds)
+- **Average call duration:** 223.7 (units not specified, likely seconds)
 
-4. **Overall Average Performance Metrics **
-   These metrics appear to be for the entire call centre or an average across agents:
-   - **Average customer performance rating:** 3.47 (likely out of 5)
-   - **Average customer Served per Month:** 171.3
-   - **Average answering speed:** 69.49 (units not specified, likely seconds)
-   - **Average call duration:** 223.7 (units not specified, likely seconds)
+  ![image 6](https://github.com/user-attachments/assets/040b265b-1d8d-4495-baef-2dd92a7d753e)
 
-     ![image 6](https://github.com/user-attachments/assets/040b265b-1d8d-4495-baef-2dd92a7d753e)
+**Agent Performance Filtering**
 
- 5. **Agent Performance Filtering**
- The agent performance metrics can be:
- Filtered monthly to analyze individual month performance
- Reset to the full 3-month view to assess overall trends
- 
- (Data represents January-March period)
+The agent performance metrics can be:
+
+- Filtered monthly to analyze individual month performance
+- Reset to the full 3-month view to assess overall trend (Data represents January-March period)
 
 
-  
-    
 
+​    
 
