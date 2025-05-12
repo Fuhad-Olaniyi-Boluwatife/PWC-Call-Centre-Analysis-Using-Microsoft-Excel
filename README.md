@@ -1,4 +1,4 @@
-# PWC-Call-Centre-Customer-Care-Analysis-Using-Microsoft-Excel
+# PWC-Call-Centre-Analysis-Using-Microsoft-Excel
 
 ### Table of content
 - [Introduction](#introduction)
